@@ -43,6 +43,7 @@
 #include <algorithm>  // std::min
 #include <cstdio>     // std::fprintf
 #include <iostream>
+#include <typeinfo>
 
 /*
  * Project Includes
